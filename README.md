@@ -31,3 +31,10 @@ Resume Screening AI is a web application that allows users to upload PDF resumes
 
 ## Conclusion
 This project automates resume screening by matching uploaded PDF resumes with a job description and ranking candidates, making the recruitment process faster and more efficient.
+
+
+demo screenshots :
+![home.png](image.png)
+![resume upload and job decription](image-1.png)
+![rank](image-2.png)
+![output csv download](image-3.png)
